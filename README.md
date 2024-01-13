@@ -1,4 +1,4 @@
-# Wine Quality Predictor
+# Chocolate Rating Predictor
 
 This project compares different optimized machine learning models (supervised learning) to predict red and white wine quality rating based on physical-chemical properties.
 
